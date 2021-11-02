@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562969507223",
+    "project_id": "fanpage-72a64",
+    "storage_bucket": "fanpage-72a64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562969507223:android:c08c6da6379f0d46bec0d2",
+        "android_client_info": {
+          "package_name": "com.loganl.fanpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562969507223-eot27jdj5ih8usbsda1bolu1in4o7ije.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrnHlrsgzsh1bHG-pXIjVVC4vMNIhwmdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562969507223-eot27jdj5ih8usbsda1bolu1in4o7ije.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
